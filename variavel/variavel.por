@@ -1,6 +1,7 @@
 programa
 {
-	inteiro num //ler e armazenar um número inteiro em uma variável.
+	
+	inteiro num //ler e armazenar um número inteiro em uma variável.
 	real num1 //define variáveis numéricas do tipo real, ou seja, com casas decimais
 	caracter o //define variáveis do tipo string, ou seja, cadeia de caracteres.
 	cadeia nome //obter e armazenar o nome do usuário em um variável.
